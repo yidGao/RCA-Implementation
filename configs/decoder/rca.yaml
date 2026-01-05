@@ -1,0 +1,4 @@
+name: RCA
+method: RCAModel
+configs:
+  alpha: 1.5
